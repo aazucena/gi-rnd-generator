@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Genshin Impact Random Generator Website
+The ReactJS Website for Genshin Impact's Competitive Speedrun up to 2 players (for now).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About this Website
+This app randomises 5 unique mobs to be slain, and 5 unique materials to pick up for the game.
 
-## Available Scripts
+## Before playing this game
+DON'T pick up many materials or slain mobs
 
-In the project directory, you can run:
+## Rules and Guidelines(working progress):
 
-### `npm start`
+1. Start and End at the Spiral Abyss
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+2. Players must be present in the same game (2 party members each)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+3. No Fast Travel, but can use Statues on foot
 
-### `npm test`
+4. Don't use Food/Items
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+5. Each player may ban 1 unit from each other's roster
 
-### `npm run build`
+----------------
+## BANNED Charactes (will be updated): 
+- Mona
+----------------
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Contribution
+Any kind of contribution is welcomed
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Crediting
+https://genshinlist.com/developer-api - for their database api
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+Distributed under the terms of the MIT License
