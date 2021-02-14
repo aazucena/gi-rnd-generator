@@ -1,0 +1,2 @@
+(this["webpackJsonpgi-rnd-generator"]=this["webpackJsonpgi-rnd-generator"]||[]).push([[0],{11:function(n,e,t){"use strict";t.r(e);t(1);var o=t(3),r=t.n(o),i=(t(8),t.p,t(9),t(0));var c=function(n){n&&n instanceof Function&&t.e(3).then(t.bind(null,12)).then((function(e){var t=e.getCLS,o=e.getFID,r=e.getFCP,i=e.getLCP,c=e.getTTFB;t(n),o(n),r(n),i(n),c(n)}))};r.a.render(Object(i.jsx)("h1",{children:"Hello, world!"}),document.getElementById("root")),c()},8:function(n,e,t){},9:function(n,e,t){}},[[11,1,2]]]);
+//# sourceMappingURL=main.9e8d3dff.chunk.js.map
