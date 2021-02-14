@@ -1,6 +1,6 @@
 {
-  "homepage": "https://aazucena.github.io/gi-rnd-generator/",
-  "name": "gi-rnd",
+  "homepage": "https://aazucena.github.io/gi-rnd-generator",
+  "name": "gi-rnd-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,9 +14,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "build": "react-scripts build",
     "predeploy": "npm run gi-rnd-generator",
     "deploy": "gh-pages -d gi-rnd-generator",
-    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
