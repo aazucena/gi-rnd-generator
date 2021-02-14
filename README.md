@@ -28,8 +28,7 @@ DON'T pick up many materials or slain mobs
 Any kind of contribution is welcomed
 
 ## Crediting
-https://genshinlist.com/developer-api - for their database api and character images
-https://genshin-impact-map.appsample.com - for the materials and enemy imgs
+https://www.gensh.in/ - for their database and images
 
 ## License
 Distributed under the terms of the MIT License
