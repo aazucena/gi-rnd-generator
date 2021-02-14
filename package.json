@@ -14,8 +14,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-	"predeploy": "npm run gi-rnd-generator",
-	"deploy": "gh-pages -d gi-rnd-generator",
+    "predeploy": "npm run gi-rnd-generator",
+    "deploy": "gh-pages -d gi-rnd-generator",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
