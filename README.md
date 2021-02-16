@@ -1,5 +1,8 @@
 # Genshin Impact Random Generator Website
-The ReactJS Website for Genshin Impact's Competitive Speedrun up to 2 players (for now).
+The ReactJS Website for Genshin Impact's Competitive Speedrun up to 2 players (for now). 
+
+**NOTE: This website, and me(aazucena) are NOT affiliated with miHoYo or Genshin Impact. 
+This is a FANMADE website for the community to use for fun and engagement purposes.**
 
 ## About this Website
 This app randomises 5 unique mobs to be slain, and 5 unique materials to pick up for the game.
