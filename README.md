@@ -31,6 +31,7 @@ DON'T pick up many materials or slain mobs
 Any kind of contribution is welcomed
 
 ## Crediting
+https://www.youtube.com/watch?v=xYBg18HFijg - inspiration from Tectone to make this website dedicated to that
 https://www.gensh.in/ - for their database and images
 
 ## License
